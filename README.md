@@ -25,11 +25,11 @@ This project analyzes ecommerce sales data to identify business opportunities, c
 - Business insights & recommendations
 
 ## Project Files
-- `notebooks/` – Jupyter notebook with full analysis
-- `reports/` – Detailed research & analysis report
-- `presentation/` – Business presentation (PPT)
+- `python/` – Jupyter notebook with full analysis
+- `research & analysis/` – Detailed research & analysis report
+- `report` – Business presentation (PPT)
 - `data/` – Raw, cleaned, and forecasted datasets
-- `screenshots/` – Key visual outputs
+- `work proof/` – Key visual outputs
 
 ## Business Impact
 This analysis helps businesses improve:
